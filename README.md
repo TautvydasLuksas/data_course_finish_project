@@ -15,4 +15,4 @@ Užduotis
 
 Duomenys
 HISTPOP_10052023174013174.csv = duomenų lentelė iš The Organization for Economic Cooperation and Development (OECD)
-WEOOct2022.csv = GDP duomenų lentelė
+ //  WEOOct2022.csv = GDP duomenų lentelė
