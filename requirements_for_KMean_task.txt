@@ -1,0 +1,7 @@
+import pandas as pd
+import numpy as np
+from sklearn.cluster import KMeans
+import matplotlib.pyplot as plt
+
+from IPython.display import display, HTML
+display(HTML("<style>.container { width:90% !important; }</style>"))
