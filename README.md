@@ -14,7 +14,5 @@ Užduotis
 5. Supaprastinkite 4 punkte sukurtą modelį taip, kad jis būtų kuo tikslesnis ir turėtų ne daugiau 5 kintamųjų (features).
 
 Duomenys
-Excel failas
-https://www.imf.org/-/media/Files/Publications/WEO/WEO-Database/2022/WEOOct2022all.ashx
-Duomenų apibrėžimas
-https://www.imf.org/en/Publications/WEO/weo-database/2022/October/download-entire-database
+HISTPOP_10052023174013174.csv = duomenų lentelė iš The Organization for Economic Cooperation and Development (OECD)
+WEOOct2022.csv = GDP duomenų lentelė
